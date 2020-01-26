@@ -1,0 +1,1527 @@
+[
+	{
+		"id": "http://zotero.org/groups/2427291/items/92PWD895",
+		"type": "article-journal",
+		"abstract": "Information visualization systems have traditionally followed a one-size-fits-all model, typically ignoring an individual user's needs, abilities, and preferences. However, recent research has indicated that visualization performance could be improved by adapting aspects of the visualization to the individual user. To this end, this article presents research aimed at supporting the design of novel user-adaptive visualization systems. In particular, we discuss results on using information on user eye gaze patterns while interacting with a given visualization to predict properties of the user's visualization task; the user's performance (in terms of predicted task completion time); and the user's individual cognitive abilities, such as perceptual speed, visual working memory, and verbal working memory. We provide a detailed analysis of different eye gaze feature sets, as well as over-time accuracies. We show that these predictions are significantly better than a baseline classifier even during the early stages of visualization usage. These findings are then discussed with a view to designing visualization systems that can adapt to the individual user in real time.",
+		"container-title": "ACM Transactions on Interactive Intelligent Systems",
+		"DOI": "10.1145/2633043",
+		"ISSN": "21606455",
+		"issue": "2",
+		"language": "en",
+		"page": "1-29",
+		"source": "Crossref",
+		"title": "Inferring Visualization Task Properties, User Performance, and User Cognitive Abilities from Eye Gaze Data",
+		"URL": "http://dl.acm.org/citation.cfm?doid=2638542.2633043",
+		"volume": "4",
+		"author": [
+			{
+				"family": "Steichen",
+				"given": "Ben"
+			},
+			{
+				"family": "Conati",
+				"given": "Cristina"
+			},
+			{
+				"family": "Carenini",
+				"given": "Giuseppe"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					1,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					7,
+					18
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2427291/items/SC2GIR6H",
+		"type": "article-journal",
+		"abstract": "Individual differences among users of a hierarchical file system were investigated. Results indicate that psychometric tests of vocabulary and spatial visualization are the best predictors of task performance, accounting for 45% of the variance in the data. The spatial predictor was found to be the most influential. This was dramatically illustrated by the fact that, on the average, subjects with low spatial ability took twice as long to perform the task as those with high spatial ability. Surprisingly, experience alone does not predict task performance. A comparison of the frequency of command usage between subjects with high and low spatial ability revealed that those with low spatial ability were getting lost in the hierarchical file structure. These data have implications for redesigning the software interface so as to accommodate people with low spatial ability.",
+		"container-title": "Human Factors",
+		"DOI": "10.1177/001872088702900308",
+		"ISSN": "0018-7208",
+		"issue": "3",
+		"journalAbbreviation": "Hum Factors",
+		"page": "349-359",
+		"source": "SAGE Journals",
+		"title": "Assaying and Isolating Individual Differences in Searching a Hierarchical File System",
+		"URL": "https://doi.org/10.1177/001872088702900308",
+		"volume": "29",
+		"author": [
+			{
+				"family": "Vicente",
+				"given": "Kim J."
+			},
+			{
+				"family": "Hayes",
+				"given": "Brian C."
+			},
+			{
+				"family": "Williges",
+				"given": "Robert C."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					1,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1987",
+					6,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2427291/items/WVNDMMSG",
+		"type": "article-journal",
+		"abstract": "This article presents two studies concerning the role of individual differences in searching through a spatialsemantic virtual environment. In the first study, 10 subjects searched for two topics through a spatial user interface of a semantic space. A strong positive correlation was found between associative memory (MA-1) and search performance (r # 0.855, p # 0.003), but no significant correlation was found between visual memory (MV-1) and search performance. In the second study, 12 subjects participated in a within-subject experimental design. The same spatial user interface and a simple textual user interface were used. The effects of spatial ability (VZ-2), associative memory (MA-1), and on-line experience were tested on a set of interrelated search performance scores. A statistically significant main effect of on-line experience was found, F(6, 4) # 6.213, p # 0.049, two-tailed. In particular, on-line experience has a significant effect on the recall scores with the textual interface. Individuals experienced in on-line search are more likely to have a higher recall score with the textual interface than less experienced individuals. No significant main effects were found for spatial ability and associative memory. Subjects' comments suggest a potentially complex interplay between individuals' mental models and the high-dimensional semantic model. Qualitative and process-oriented studies are, therefore, called for to reveal the complex interaction between individuals' cognitive abilities, domain knowledge, and direct manipulation skills. A recommendation is made that spatial-semantic models should be adaptable to suit individuals and tasks at various levels",
+		"container-title": "Journal of the American Society for Information Science",
+		"page": "529–542",
+		"source": "CiteSeer",
+		"title": "Individual Differences in a Spatial-Semantic Virtual Environment",
+		"volume": "51",
+		"author": [
+			{
+				"family": "Chen",
+				"given": "Chaomei"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2427291/items/UVAKVRSA",
+		"type": "chapter",
+		"abstract": "The long-term goal of our research is to design information visualization systems that adapt to the specific needs, characteristics, and context of each individual viewer. In order to successfully perform such adaptation, it is crucial to first identify characteristics that influence an individual user’s effectiveness, efficiency, and satisfaction with a particular information visualization type. In this paper, we present a study that focuses on investigating the impact of four user characteristics (perceptual speed, verbal working memory, visual working memory, and user expertise) on the effectiveness of two common data visualization techniques: bar graphs and radar graphs. Our results show that certain user characteristics do in fact have a significant effect on task efficiency, user preference, and ease of use. We conclude with a discussion of how our findings could be effectively used for an adaptive visualization system.",
+		"container-title": "User Modeling, Adaptation, and Personalization",
+		"event-place": "Berlin, Heidelberg",
+		"ISBN": "978-3-642-31453-7",
+		"language": "en",
+		"note": "DOI: 10.1007/978-3-642-31454-4_23",
+		"page": "274-285",
+		"publisher": "Springer Berlin Heidelberg",
+		"publisher-place": "Berlin, Heidelberg",
+		"source": "DOI.org (Crossref)",
+		"title": "Towards Adaptive Information Visualization: On the Influence of User Characteristics",
+		"title-short": "Towards Adaptive Information Visualization",
+		"URL": "http://link.springer.com/10.1007/978-3-642-31454-4_23",
+		"volume": "7379",
+		"collection-editor": [
+			{
+				"family": "Hutchison",
+				"given": "David"
+			},
+			{
+				"family": "Kanade",
+				"given": "Takeo"
+			},
+			{
+				"family": "Kittler",
+				"given": "Josef"
+			},
+			{
+				"family": "Kleinberg",
+				"given": "Jon M."
+			},
+			{
+				"family": "Mattern",
+				"given": "Friedemann"
+			},
+			{
+				"family": "Mitchell",
+				"given": "John C."
+			},
+			{
+				"family": "Naor",
+				"given": "Moni"
+			},
+			{
+				"family": "Nierstrasz",
+				"given": "Oscar"
+			},
+			{
+				"family": "Pandu Rangan",
+				"given": "C."
+			},
+			{
+				"family": "Steffen",
+				"given": "Bernhard"
+			},
+			{
+				"family": "Sudan",
+				"given": "Madhu"
+			},
+			{
+				"family": "Terzopoulos",
+				"given": "Demetri"
+			},
+			{
+				"family": "Tygar",
+				"given": "Doug"
+			},
+			{
+				"family": "Vardi",
+				"given": "Moshe Y."
+			},
+			{
+				"family": "Weikum",
+				"given": "Gerhard"
+			}
+		],
+		"editor": [
+			{
+				"family": "Masthoff",
+				"given": "Judith"
+			},
+			{
+				"family": "Mobasher",
+				"given": "Bamshad"
+			},
+			{
+				"family": "Desmarais",
+				"given": "Michel C."
+			},
+			{
+				"family": "Nkambou",
+				"given": "Roger"
+			}
+		],
+		"author": [
+			{
+				"family": "Toker",
+				"given": "Dereck"
+			},
+			{
+				"family": "Conati",
+				"given": "Cristina"
+			},
+			{
+				"family": "Carenini",
+				"given": "Giuseppe"
+			},
+			{
+				"family": "Haraty",
+				"given": "Mona"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					1,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2427291/items/UA56E88W",
+		"type": "paper-conference",
+		"abstract": "This current study explored the impact of individual differences in personality factors on interface interaction and learning performance in both an interactive visualization and a menu-driven web application. Participants were administered 6 psychometric measures designed to assess trait anxiety, locus of control, and other personality traits. Participants were then asked to complete 3 procedural tasks and 3 inferential tasks in each interface. Results demonstrated that participants with an external locus of control completed inferential tasks more quickly than those with an internal locus. Factor analysis of items from the 6 psychometric scales isolated a 9-item short measure, which showed trending with procedural scores. Additionally, data demonstrated that the visualization interface was more effective and efficient for the completion of the inferential tasks. Participants also preferred the visualization to the web interface for both types of task. Implications and future directions of this research are also discussed.",
+		"container-title": "2010 43rd Hawaii International Conference on System Sciences",
+		"DOI": "10.1109/HICSS.2010.431",
+		"event": "2010 43rd Hawaii International Conference on System Sciences",
+		"event-place": "Honolulu, Hawaii, USA",
+		"ISBN": "978-1-4244-5509-6",
+		"language": "en",
+		"page": "1-10",
+		"publisher": "IEEE",
+		"publisher-place": "Honolulu, Hawaii, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Using Personality Factors to Predict Interface Learning Performance",
+		"URL": "http://ieeexplore.ieee.org/document/5428312/",
+		"author": [
+			{
+				"family": "Green",
+				"given": "Tera Marie"
+			},
+			{
+				"family": "Jeong",
+				"given": "Dong Hyun"
+			},
+			{
+				"family": "Fisher",
+				"given": "Brian"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					1,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2427291/items/JE4EWMRQ",
+		"type": "article-journal",
+		"abstract": "Previous research has shown that various user characteristics (e.g., cognitive abilities, personality traits, and learning abilities) can influence user experience during information visualization tasks. These findings have prompted researchers to investigate user-adaptive information visualizations that can help users by providing personalized support based on their specific needs. Whereas existing work has been mostly limited to tasks involving just visualizations, the aim of our research is to broaden this work to include scenarios where users process textual documents with embedded visualizations, i.e., Magazine Style Narrative Visualizations, or MSNVs for short. In this paper, we analyze eye tracking data collected from a user study with MSNVs to uncover processing behaviors that are negatively impacting user experience (i.e., time on task) for users with low abilities in these user characteristics. Our analysis leverages Linear Mixed-Effects Models to evaluate the relationships among user characteristics, gaze processing behaviors, and task performance. Our results identify several MSNV processing behaviors within the visualization that contribute to poor task performance for users with low reading proficiency. For instance, we identify that users with low reading proficiency transition significantly more often compared to their counterparts between relevant and non-relevant bars, and transition more often from bars to the labels. We present our findings as a step toward designing user-adaptive support mechanisms to alleviate these difficulties with MSNVs, and provide suggestions on how our results can be leveraged for creating a set of meaningful interventions for future evaluation (e.g., dynamically highlighting relevant bars and labels in the visualization to help users with low reading proficiency locate them more effectively).",
+		"container-title": "User Modeling and User-Adapted Interaction",
+		"DOI": "10.1007/s11257-019-09244-5",
+		"ISSN": "1573-1391",
+		"issue": "5",
+		"journalAbbreviation": "User Model User-Adap Inter",
+		"language": "en",
+		"page": "977-1011",
+		"source": "Springer Link",
+		"title": "Gaze analysis of user characteristics in magazine style narrative visualizations",
+		"URL": "https://doi.org/10.1007/s11257-019-09244-5",
+		"volume": "29",
+		"author": [
+			{
+				"family": "Toker",
+				"given": "Dereck"
+			},
+			{
+				"family": "Conati",
+				"given": "Cristina"
+			},
+			{
+				"family": "Carenini",
+				"given": "Giuseppe"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					1,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2427291/items/ZGBWXNIM",
+		"type": "paper-conference",
+		"abstract": "In this paper we present results from an exploratory user study to uncover which user characteristics (e.g., perceptual speed, verbal working memory, etc.) play a role in how users process textual documents with embedded visualizations (i.e., Magazine Style Narrative Visualizations). We present our findings as a step toward developing user-adaptive support, and provide suggestions on how our results can be leveraged for creating a set of meaningful interventions for future evaluation.",
+		"container-title": "Proceedings of the 2018 Conference on Human Information Interaction&Retrieval - IUI 18",
+		"DOI": "10.1145/3172944.3173009",
+		"event": "23rd International Conference",
+		"event-place": "Tokyo, Japan",
+		"ISBN": "978-1-4503-4945-1",
+		"language": "en",
+		"page": "199-204",
+		"publisher": "ACM Press",
+		"publisher-place": "Tokyo, Japan",
+		"source": "DOI.org (Crossref)",
+		"title": "User-adaptive Support for Processing Magazine Style Narrative Visualizations: Identifying User Characteristics that Matter",
+		"title-short": "User-adaptive Support for Processing Magazine Style Narrative Visualizations",
+		"URL": "http://dl.acm.org/citation.cfm?doid=3172944.3173009",
+		"author": [
+			{
+				"family": "Toker",
+				"given": "Dereck"
+			},
+			{
+				"family": "Conati",
+				"given": "Cristina"
+			},
+			{
+				"family": "Carenini",
+				"given": "Giuseppe"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					1,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2427291/items/LRC4MX5T",
+		"type": "paper-conference",
+		"abstract": "Previous work has shown that some user cognitive abilities relevant for processing information visualizations can be predicted from eye tracking data. Performing this type of user modeling is important for devising user-adaptive visualizations that can adapt to a user’s abilities as needed during the interaction. In this paper, we contribute to previous work by extending the type of visualizations considered and the set of cognitive abilities that can be predicted from gaze data, thus providing evidence on the generality of these findings. We also evaluate how quality of gaze data impacts prediction.",
+		"container-title": "Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence",
+		"DOI": "10.24963/ijcai.2017/217",
+		"event": "Twenty-Sixth International Joint Conference on Artificial Intelligence",
+		"event-place": "Melbourne, Australia",
+		"ISBN": "978-0-9992411-0-3",
+		"language": "en",
+		"page": "1568-1574",
+		"publisher": "International Joint Conferences on Artificial Intelligence Organization",
+		"publisher-place": "Melbourne, Australia",
+		"source": "DOI.org (Crossref)",
+		"title": "Further Results on Predicting Cognitive Abilities for Adaptive Visualizations",
+		"URL": "https://www.ijcai.org/proceedings/2017/217",
+		"author": [
+			{
+				"family": "Conati",
+				"given": "Cristina"
+			},
+			{
+				"family": "Lallé",
+				"given": "Sébastien"
+			},
+			{
+				"family": "Rahman",
+				"given": "Md. Abed"
+			},
+			{
+				"family": "Toker",
+				"given": "Dereck"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					1,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2427291/items/6PZQAGSP",
+		"type": "paper-conference",
+		"abstract": "Although there is abundant evidence that individual differences such as cognitive abilities impact visualization effectiveness, this influence has mostly been shown for fictional tasks/scenarios. This paper extends previous findings by investigating the impact of individual differences on user experience with a real-world information visualization tool designed to support preferential choices in public engagement. We show that several cognitive abilities do have an influence on user experience in this task, and show that this influence can be explained by eye tracking. We discuss how these results are promising towards the design of visualizations for preferential choice in public engagement that can adapt to the user's needs, abilities and expertise.",
+		"DOI": "10.1145/3079628.3079634",
+		"ISBN": "978-1-4503-4635-1",
+		"language": "en",
+		"page": "369-370",
+		"publisher": "ACM Press",
+		"source": "Crossref",
+		"title": "Impact of Individual Differences on User Experience with a Real-World Visualization Interface for Public Engagement",
+		"URL": "http://dl.acm.org/citation.cfm?doid=3079628.3079634",
+		"author": [
+			{
+				"family": "Lallé",
+				"given": "Sébastien"
+			},
+			{
+				"family": "Conati",
+				"given": "Cristina"
+			},
+			{
+				"family": "Carenini",
+				"given": "Giuseppe"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					1,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2427291/items/UZ3FXZHQ",
+		"type": "paper-conference",
+		"abstract": "Recommender systems have been increasingly used in online services that we consume daily, such as Facebook, Netﬂix, YouTube, and Spotify. However, these systems are often presented to users as a “black box”, i.e. the rational for providing individual recommendations remains unexplained to users. In recent years, various attempts have been made to address this black box issue by providing textual explanations or interactive visualisations that enable users to explore the provenance of recommendations, and beneﬁts in terms of precision and user satisfaction, among others, have been demonstrated. Previous research had also indicated that personal characteristics such as domain knowledge, trust propensity and persistence may also play an important role on such perceived beneﬁts. Yet, to date, little is known about the effects of personal characteristics when explaining recommendations. To address this gap, we developed a music recommender system with explanations and conducted an online study using a within-subject design. We captured various personal characteristics of participants and administered both qualitative and quantitative evaluation methods. Results indicated that personal characteristics have some signiﬁcant inﬂuence on the interaction and perception of recommender systems and that this inﬂuence changes by adding explanations. Especially people with a low need for cognition beneﬁted from explained recommendations. For people with a high need for cognition, we observed that explanations could lower their conﬁdence. Based on these results, we present some ﬁrst design implications for explaining recommendations.",
+		"container-title": "Proceedings of the 24th International Conference on Intelligent User Interfaces - IUI '19",
+		"DOI": "10.1145/3301275.3302313",
+		"event": "the 24th International Conference",
+		"event-place": "Marina del Ray, California",
+		"ISBN": "978-1-4503-6272-6",
+		"language": "en",
+		"page": "397-407",
+		"publisher": "ACM Press",
+		"publisher-place": "Marina del Ray, California",
+		"source": "DOI.org (Crossref)",
+		"title": "To explain or not to explain: the effects of personal characteristics when explaining music recommendations",
+		"title-short": "To explain or not to explain",
+		"URL": "http://dl.acm.org/citation.cfm?doid=3301275.3302313",
+		"author": [
+			{
+				"family": "Millecamp",
+				"given": "Martijn"
+			},
+			{
+				"family": "Htun",
+				"given": "Nyi Nyi"
+			},
+			{
+				"family": "Conati",
+				"given": "Cristina"
+			},
+			{
+				"family": "Verbert",
+				"given": "Katrien"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					1,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2427291/items/QG9CWX6E",
+		"type": "paper-conference",
+		"abstract": "Although there is extensive evidence that personalization of interactive systems can improve the user’s experience and satisfaction, it is also known that the two main approaches to deliver personalization, namely via customization or system-driven adaptation, have limitations. In particular, many users do not use customize mechanisms, while adaptation can be perceived as intrusive and opaque. In this paper, we explore an intermediary approach to personalization, namely delivering system-driven support to customization. To this end, we study a customization mechanism allowing to choose the type and amount of information displayed by means of information visualizations in a system for decision making, and examine the impact of user di�erences on the e�ectiveness of this mechanism. Our results show that, for the users who did use the customization mechanism, customization e�ectiveness was impacted by their levels of visualization literacy and locus of control. These results suggest that the customization mechanism could be improved by system-driven assistance to customize depending on the user’s level of visualization literacy and locus of control.",
+		"container-title": "Proceedings of the 24th International Conference on Intelligent User Interfaces - IUI '19",
+		"DOI": "10.1145/3301275.3302283",
+		"event": "the 24th International Conference",
+		"event-place": "Marina del Ray, California",
+		"ISBN": "978-1-4503-6272-6",
+		"language": "en",
+		"page": "329-339",
+		"publisher": "ACM Press",
+		"publisher-place": "Marina del Ray, California",
+		"source": "DOI.org (Crossref)",
+		"title": "The role of user differences in customization: a case study in personalization for infovis-based content",
+		"title-short": "The role of user differences in customization",
+		"URL": "http://dl.acm.org/citation.cfm?doid=3301275.3302283",
+		"author": [
+			{
+				"family": "Lallé",
+				"given": "Sébastien"
+			},
+			{
+				"family": "Conati",
+				"given": "Cristina"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					1,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2427291/items/XDRWC8CZ",
+		"type": "article-journal",
+		"abstract": "Researchers in human?computer interaction and visualization have recently been challenged to develop a better understanding of users? underlying cognitive processes in order to improve system design and evaluation. While existing studies lay a critical foundation for understanding the role of cognitive processes and individual differences in visualization, concretizing the intuition that each user experiences a visual interface through an individual cognitive lens is only half the battle. In this article, we investigate the impact of manipulating users? personality on observed behavior when using a visualization. In a targeted study, we demonstrate that personality priming can result in changes in behavior when interacting with visualizations. We then discuss how this and similar techniques could be used to control for personality effects when designing and evaluating visualizations systems.",
+		"container-title": "Information Visualization",
+		"DOI": "10.1177/1473871613513227",
+		"ISSN": "1473-8716",
+		"issue": "3",
+		"journalAbbreviation": "Information Visualization",
+		"page": "223-233",
+		"source": "SAGE Journals",
+		"title": "Manipulating and controlling for personality effects on visualization tasks",
+		"URL": "https://doi.org/10.1177/1473871613513227",
+		"volume": "14",
+		"author": [
+			{
+				"family": "Ottley",
+				"given": "Alvitta"
+			},
+			{
+				"family": "Crouser",
+				"given": "R Jordan"
+			},
+			{
+				"family": "Ziemkiewicz",
+				"given": "Caroline"
+			},
+			{
+				"family": "Chang",
+				"given": "Remco"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					1,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					7,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2427291/items/CY9TAUMX",
+		"type": "article-journal",
+		"abstract": "Existing research suggests that individual personality differences are correlated with a user’s speed and accuracy in solving problems with different types of complex visualization systems. We extend this research by isolating factors in personality traits as well as in the visualizations that could have contributed to the observed correlation. We focus on a personality trait known as “locus of control” (LOC), which represents a person’s tendency to see themselves as controlled by or in control of external events. To isolate variables of the visualization design, we control extraneous factors such as color, interaction, and labeling. We conduct a user study with four visualizations that gradually shift from a list metaphor to a containment metaphor and compare the participants’ speed, accuracy, and preference with their locus of control and other personality factors. Our findings demonstrate that there is indeed a correlation between the two: participants with an internal locus of control perform more poorly with visualizations that employ a containment metaphor, while those with an external locus of control perform well with such visualizations. These results provide evidence for the externalization theory of visualization. Finally, we propose applications of these findings to adaptive visual analytics and visualization evaluation.",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2012.180",
+		"ISSN": "1077-2626",
+		"issue": "7",
+		"language": "en",
+		"page": "1109-1121",
+		"source": "Crossref",
+		"title": "How Visualization Layout Relates to Locus of Control and Other Personality Factors",
+		"URL": "http://ieeexplore.ieee.org/document/6297975/",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Ziemkiewicz",
+				"given": "C."
+			},
+			{
+				"family": "Ottley",
+				"given": "A."
+			},
+			{
+				"family": "Crouser",
+				"given": "R. J."
+			},
+			{
+				"family": "Yauilla",
+				"given": "A. R."
+			},
+			{
+				"family": "Su",
+				"given": "S. L."
+			},
+			{
+				"family": "Ribarsky",
+				"given": "W."
+			},
+			{
+				"family": "Chang",
+				"given": "R."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					1,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2427291/items/SUBFTLZH",
+		"type": "article-journal",
+		"abstract": "In this paper, we describe an empirical study of individuals' spatial navigation strategies and a number of performance and preference measures with regard to the design of a novel 3D visualisation. The underlying semantic space of the user interface consists of a collection of papers from the three most recent ACM SIGCHI conference proceedings, visualised as a virtual reality network. This network was automatically constructed based on semantic similarities derived from latent semantic analysis. We studied die search strategies and general preferences of eleven subjects who used this system to find papers on various topics. The study has led to a number of interesting findings, which should be valuable for designers and evaluators of 3D user interfaces. The results highlight the importance of structural elements in the design of a semantically based user interface, because search strategies of users relied heavily on these mechanisms in the design. The results of this study also demonstrate that we are able to characterise and learn from users search strategies in a visual environment strongly shaped by semantic relationships of the information content. Implications for user interface design based on users psychological models of a semantic space are described.",
+		"container-title": "New Review of Hypermedia and Multimedia",
+		"DOI": "10.1080/13614569708914684",
+		"ISSN": "1361-4568, 1740-7842",
+		"issue": "1",
+		"journalAbbreviation": "New Review of Hypermedia and Multimedia",
+		"language": "en",
+		"page": "67-89",
+		"source": "DOI.org (Crossref)",
+		"title": "Spatial ability and visual navigation: an empirical study",
+		"title-short": "Spatial ability and visual navigation",
+		"URL": "http://www.tandfonline.com/doi/abs/10.1080/13614569708914684",
+		"volume": "3",
+		"author": [
+			{
+				"family": "Chen",
+				"given": "Chaomei"
+			},
+			{
+				"family": "Czerwinski",
+				"given": "Mary"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					1,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1997",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2427291/items/7A95JQKA",
+		"type": "article-journal",
+		"abstract": "There is increasing evidence that the effectiveness of information visualization techniques can be impacted by the particular needs and abilities of each user. This suggests that it is important to investigate information visualization systems that can dynamically adapt to each user. In this paper, we address the question of how to adapt. In particular, we present a study to evaluate a variety of visual prompts, called ‘interventions’, that can be performed on a visualization to help users process it. Our results show that some of the tested interventions perform better than a condition in which no intervention is provided, both in terms of task performance as well as subjective user ratings. We also discuss findings on how intervention effectiveness is influenced by individual differences and task complexity.",
+		"language": "en",
+		"page": "10",
+		"source": "Zotero",
+		"title": "Highlighting Interventions and User Differences: Informing Adaptive Information Visualization Support",
+		"author": [
+			{
+				"family": "Carenini",
+				"given": "Giuseppe"
+			},
+			{
+				"family": "Conati",
+				"given": "Cristina"
+			},
+			{
+				"family": "Hoque",
+				"given": "Enamul"
+			},
+			{
+				"family": "Steichen",
+				"given": "Ben"
+			},
+			{
+				"family": "Toker",
+				"given": "Dereck"
+			},
+			{
+				"family": "Enns",
+				"given": "James"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2427291/items/9ZGVLFG9",
+		"type": "paper-conference",
+		"abstract": "Little is known about the cognitive abilities which influence the comprehension of scientific and information visualizations and what properties of the visualization affect comprehension. Our goal in this paper is to understand what makes visualizations difficult. We address this goal by examining the spatial ability differences in a diverse population selected for spatial ability variance. For example, how is spatial ability related to visualization comprehension? What makes a particular visualization difficult or time intensive for specific groups of subjects? In this paper, we present the results of an experiment designed to answer these questions. Fifty-six subjects were tested on a basic visualization task and given standard paper tests of spatial abilities. An equal number of males and females were recruited in this study in order to increase spatial ability variance. Our results show that high spatial ability is correlated with accuracy on our three-dimensional visualization test, but not with time. High spatial ability subjects also had less difficulty with object complexity and the hidden properties of an object.",
+		"container-title": "VIS 05. IEEE Visualization, 2005.",
+		"DOI": "10.1109/VISUAL.2005.1532836",
+		"event": "VIS 05. IEEE Visualization, 2005.",
+		"event-place": "Minneapolis, MN, USA",
+		"ISBN": "978-0-7803-9462-9",
+		"language": "en",
+		"page": "511-518",
+		"publisher": "IEEE",
+		"publisher-place": "Minneapolis, MN, USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Understanding Visualization through Spatial Ability Differences",
+		"URL": "http://ieeexplore.ieee.org/document/1532836/",
+		"author": [
+			{
+				"family": "Velez",
+				"given": "M.C."
+			},
+			{
+				"family": "Silver",
+				"given": "D."
+			},
+			{
+				"family": "Tremaine",
+				"given": "M."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					1,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2427291/items/RCA5LPIA",
+		"type": "article-journal",
+		"abstract": "Thirty participants performed a novel spatial inference task, which required them to imagine and draw the cross section of a three-dimensional (3-D) object. While performing the task, participants could interactively control two computer visualisations (animations) of the object. There were large individual differences in how frequently participants used the computer visualisations, which were related to spatial ability. Use of the interactive visualisations was highly predictive of performance on the cross-section task and mediated the correlation between spatial ability and performance. These findings suggest that interactive computer visualisations can aid performance on spatial inference tasks, but that they do so only for a subset of individuals who can discover how to best use the additional information that they provide. Copyright © 2007 John Wiley & Sons, Ltd.",
+		"container-title": "Applied Cognitive Psychology",
+		"DOI": "10.1002/acp.1344",
+		"ISSN": "1099-0720",
+		"issue": "6",
+		"language": "en",
+		"page": "701-711",
+		"source": "Wiley Online Library",
+		"title": "Individual differences in use of external visualisations to perform an internal visualisation task",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.1344",
+		"volume": "21",
+		"author": [
+			{
+				"family": "Cohen",
+				"given": "Cheryl A."
+			},
+			{
+				"family": "Hegarty",
+				"given": "Mary"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					1,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2427291/items/GHBGTKH5",
+		"type": "article-journal",
+		"abstract": "Graphics convey numerical information very efficiently, but rely on a different set of mental processes than tabular displays. Here, we present a study relating demographic characteristics and visual skills to perception of graphical lineups. We conclude that lineups are essentially a classification test in a visual domain, and that performance on the lineup protocol is associated with general aptitude, rather than specific tasks such as card rotation and spatial manipulation. We also examine the possibility that specific graphical tasks may be associated with certain visual skills and conclude that more research is necessary to understand which visual skills are required in order to understand certain plot types.",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2015.2469125",
+		"ISSN": "2160-9306",
+		"issue": "1",
+		"page": "459-468",
+		"source": "IEEE Xplore",
+		"title": "Spatial Reasoning and Data Displays",
+		"volume": "22",
+		"author": [
+			{
+				"family": "VanderPlas",
+				"given": "Susan"
+			},
+			{
+				"family": "Hofmann",
+				"given": "Heike"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2427291/items/KYDVDEPX",
+		"type": "paper-conference",
+		"abstract": "In this paper, we describe a user study aimed at evaluating the effectiveness of two different data visualization techniques developed for describing complex environmental changes in an interactive system designed to foster awareness in sustainable development. While several studies have compared alternative visualizations, the distinguishing feature of our research is that we try to understand whether individual user differences may be used as predictors of visualization effectiveness in choosing among alternative visualizations for a given task. We show that the cognitive ability known as perceptual speed can predict which one of our target visualizations is most effective for a given user. This result suggests that tailored visualization selection can be an effective way to improve user performance.",
+		"container-title": "Proceedings of the working conference on Advanced visual interfaces - AVI '08",
+		"DOI": "10.1145/1385569.1385602",
+		"event": "the working conference",
+		"event-place": "Napoli, Italy",
+		"ISBN": "978-1-60558-141-5",
+		"language": "en",
+		"page": "199",
+		"publisher": "ACM Press",
+		"publisher-place": "Napoli, Italy",
+		"source": "DOI.org (Crossref)",
+		"title": "Exploring the role of individual differences in information visualization",
+		"URL": "http://portal.acm.org/citation.cfm?doid=1385569.1385602",
+		"author": [
+			{
+				"family": "Conati",
+				"given": "Cristina"
+			},
+			{
+				"family": "Maclaren",
+				"given": "Heather"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					1,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2427291/items/D8F4BUL2",
+		"type": "article-journal",
+		"abstract": "Understanding information visualization is more than a matter of reading a series of data values; it is also a matter of incorporating a visual structure into one’s own thinking about a problem. We have proposed visual metaphors as a framework for understanding high-level visual structure and its effect on visualization use. Although there is some evidence that visual metaphors can affect visualization use, the nature of this effect is still ambiguous. We propose that a user’s preconceived metaphors for data and other individual differences play an important role in her ability to think in a variety of visual metaphors, and subsequently in her ability to use a visualization. We test this hypothesis by conducting a study in which a participant’s preconceptions and thinking style were compared with the degree to which she is affected by conﬂicting metaphors in a visualization and its task questions. The results show that metaphor compatibility has a signiﬁcant effect on accuracy, but that factors such as spatial ability and personality can lessen this effect. We also ﬁnd a complex inﬂuence of self-reported metaphor preference on performance. These ﬁndings shed light on how people use visual metaphors to understand a visualization.",
+		"container-title": "Computer Graphics Forum",
+		"DOI": "10.1111/j.1467-8659.2009.01442.x",
+		"ISSN": "01677055, 14678659",
+		"issue": "3",
+		"language": "en",
+		"page": "911-918",
+		"source": "Crossref",
+		"title": "Preconceptions and Individual Differences in Understanding Visual Metaphors",
+		"URL": "http://doi.wiley.com/10.1111/j.1467-8659.2009.01442.x",
+		"volume": "28",
+		"author": [
+			{
+				"family": "Ziemkiewicz",
+				"given": "Caroline"
+			},
+			{
+				"family": "Kosara",
+				"given": "Robert"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					1,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2427291/items/7WNJ8P88",
+		"type": "paper-conference",
+		"abstract": "These current studies explored the impact of individual differences in personality factors on interface interaction and learning performance behaviors in both an interactive visualization and a menu-driven web table in two studies. Participants were administered 3 psychometric measures designed to assess Locus of Control, Extraversion, and Neuroticism. Participants were then asked to complete multiple procedural learning tasks in each interface. Results demonstrated that all three measures predicted completion times. Additionally, results analyses demonstrated personality factors also predicted the number of insights participants reported while completing the tasks in each interface. We discuss how these findings advance our ongoing research in the Personal Equation of Interaction.",
+		"DOI": "10.1109/VAST.2010.5653587",
+		"ISBN": "978-1-4244-9488-0",
+		"language": "en",
+		"page": "203-210",
+		"publisher": "IEEE",
+		"source": "Crossref",
+		"title": "Towards the Personal Equation of Interaction: The impact of personality factors on visual analytics interface interaction",
+		"title-short": "Towards the Personal Equation of Interaction",
+		"URL": "http://ieeexplore.ieee.org/document/5653587/",
+		"author": [
+			{
+				"family": "Green",
+				"given": "Tear Marie"
+			},
+			{
+				"family": "Fisher",
+				"given": "Brian"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					1,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2427291/items/E2BMK9PY",
+		"type": "paper-conference",
+		"abstract": "Existing research suggests that individual personality differences are correlated with a user’s speed and accuracy in solving problems with different types of complex visualization systems. In this paper, we extend this research by isolating factors in personality traits as well as in the visualizations that could have contributed to the observed correlation. We focus on a personality trait known as “locus of control,” which represents a person’s tendency to see themselves as controlled by or in control of external events. To isolate variables of the visualization design, we control extraneous factors such as color, interaction, and labeling, and speciﬁcally focus on the overall layout style of the visualizations. We conduct a user study with four visualizations that gradually shift from an indentation metaphor to a containment metaphor and compare the participants’ speed, accuracy, and preference with their locus of control. Our ﬁndings demonstrate that there is indeed a correlation between the two: participants with an internal locus of control perform more poorly with visualizations that employ a containment metaphor, while those with an external locus of control perform well with such visualizations. We discuss a possible explanation for this relationship based in cognitive psychology and propose that these results can be used to better understand how people use visualizations and how to adapt visual analytics design to an individual user’s needs.",
+		"DOI": "10.1109/VAST.2011.6102445",
+		"ISBN": "978-1-4673-0014-8",
+		"language": "en",
+		"page": "81-90",
+		"publisher": "IEEE",
+		"source": "Crossref",
+		"title": "How locus of control influences compatibility with visualization style",
+		"URL": "http://ieeexplore.ieee.org/document/6102445/",
+		"author": [
+			{
+				"family": "Ziemkiewicz",
+				"given": "Caroline"
+			},
+			{
+				"family": "Crouser",
+				"given": "R. Jordan"
+			},
+			{
+				"family": "Yauilla",
+				"given": "Ashley Rye"
+			},
+			{
+				"family": "Su",
+				"given": "Sara L."
+			},
+			{
+				"family": "Ribarsky",
+				"given": "William"
+			},
+			{
+				"family": "Chang",
+				"given": "Remco"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					1,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2427291/items/AEJX5L8D",
+		"type": "article-journal",
+		"abstract": "Conﬂicting results are reported in the literature on whether dynamic visualizations are more effective than static visualizations for learning and mastering 3-D tasks, and only a few investigations have considered the inﬂuence of the spatial abilities of the learners. In a study with 117 participants, we compared the beneﬁt of static vs. dynamic visualization training tools on learners with different spatial abilities performing a typical 3-D task (speciﬁcally, creating orthographic projections of a 3-D object). We measured the spatial abilities of the participants using the Mental Rotation Test (MRT) and classiﬁed participants into two groups (high and low abilities) to examine how the participants’ abilities predicted change in performance after training with static versus dynamic training tools. Our results indicate that: 1) visualization training programs can help learners to improve 3-D task performance, 2) dynamic visualizations provide no advantages over static visualizations that show intermediate steps, 3) training programs are more beneﬁcial for individuals with low spatial abilities than for individuals with high spatial abilities, and 4) training individuals with high spatial abilities using dynamic visualizations provides little beneﬁt.",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2013.156",
+		"ISSN": "1077-2626",
+		"issue": "12",
+		"language": "en",
+		"page": "2810-2817",
+		"source": "Crossref",
+		"title": "Evaluation of Static and Dynamic Visualization Training Approaches for Users with Different Spatial Abilities",
+		"URL": "http://ieeexplore.ieee.org/document/6634097/",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Froese",
+				"given": "Maria-Elena"
+			},
+			{
+				"family": "Tory",
+				"given": "Melanie"
+			},
+			{
+				"family": "Evans",
+				"given": "Guy-Warwick"
+			},
+			{
+				"family": "Shrikhande",
+				"given": "Kedar"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					1,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2427291/items/U52IFXV9",
+		"type": "paper-conference",
+		"abstract": "Information Visualization systems have traditionally followed a one-size-fits-all model, typically ignoring an individual user’s needs, abilities and preferences. However, recent research has indicated that visualization performance could be improved by adapting aspects of the visualization to each individual user. To this end, this paper presents research aimed at supporting the design of novel useradaptive visualization systems. In particular, we discuss results on using information on user eye gaze patterns while interacting with a given visualization to predict the user’s visualization tasks, as well as user cognitive abilities including perceptual speed, visual working memory, and verbal working memory. We show that such predictions are significantly better than a baseline classifier even during the early stages of visualization usage. These findings are discussed in view of designing visualization systems that can adapt to each individual user in real-time.",
+		"event": "SIGCHI Conference on Human Factors in Computing Systems",
+		"language": "en",
+		"page": "12",
+		"publisher": "ACM",
+		"source": "Zotero",
+		"title": "User-Adaptive Information Visualization - Using Eye Gaze Data to Infer Visualization Tasks and User Cognitive Abilities",
+		"author": [
+			{
+				"family": "Steichen",
+				"given": "Ben"
+			},
+			{
+				"family": "Carenini",
+				"given": "Giuseppe"
+			},
+			{
+				"family": "Conati",
+				"given": "Cristina"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2427291/items/DYD9U739",
+		"type": "paper-conference",
+		"abstract": "There is increasing evidence that users’ characteristics such as cognitive abilities and personality have an impact on the effectiveness of information visualization techniques. This paper investigates the relationship between such characteristics and fine-grained user attention patterns. In particular, we present results from an eye tracking user study involving bar graphs and radar graphs, showing that a user’s cognitive abilities such as perceptual speed and verbal working memory have a significant impact on gaze behavior, both in general and in relation to task difficulty and visualization type. These results are discussed in view of our long-term goal of designing information visualisation systems that can dynamically adapt to individual user characteristics.",
+		"event": "SIGCHI Conference on Human Factors in Computing Systems",
+		"language": "en",
+		"page": "10",
+		"publisher": "ACM",
+		"source": "Zotero",
+		"title": "Individual User Characteristics and Information Visualization: Connecting the Dots through Eye Tracking",
+		"author": [
+			{
+				"family": "Toker",
+				"given": "Dereck"
+			},
+			{
+				"family": "Conati",
+				"given": "Cristina"
+			},
+			{
+				"family": "Steichen",
+				"given": "Ben"
+			},
+			{
+				"family": "Carenini",
+				"given": "Giuseppe"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2427291/items/XKAN84BQ",
+		"type": "article-journal",
+		"abstract": "Visual analytics is inherently a collaboration between human and computer. However, in current visual analytics systems, the computer has limited means of knowing about its users and their analysis processes. While existing research has shown that a user’s interactions with a system reﬂect a large amount of the user’s reasoning process, there has been limited advancement in developing automated, real-time techniques that mine interactions to learn about the user. In this paper, we demonstrate that we can accurately predict a user’s task performance and infer some user personality traits by using machine learning techniques to analyze interaction data. Speciﬁcally, we conduct an experiment in which participants perform a visual search task, and apply well-known machine learning algorithms to three encodings of the users’ interaction data. We achieve, depending on algorithm and encoding, between 62% and 83% accuracy at predicting whether each user will be fast or slow at completing the task. Beyond predicting performance, we demonstrate that using the same techniques, we can infer aspects of the user’s personality factors, including locus of control, extraversion, and neuroticism. Further analyses show that strong results can be attained with limited observation time: in one case 95% of the ﬁnal accuracy is gained after a quarter of the average task completion time. Overall, our ﬁndings show that interactions can provide information to the computer about its human collaborator, and establish a foundation for realizing mixedinitiative visual analytics systems.",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2014.2346575",
+		"ISSN": "1077-2626",
+		"issue": "12",
+		"language": "en",
+		"page": "1663-1672",
+		"source": "Crossref",
+		"title": "Finding Waldo: Learning about Users from their Interactions",
+		"title-short": "Finding Waldo",
+		"URL": "http://ieeexplore.ieee.org/document/6875913/",
+		"volume": "20",
+		"author": [
+			{
+				"family": "Brown",
+				"given": "Eli T"
+			},
+			{
+				"family": "Ottley",
+				"given": "Alvitta"
+			},
+			{
+				"family": "Zhao",
+				"given": "Helen"
+			},
+			{
+				"family": "Lin",
+				"given": "Quan"
+			},
+			{
+				"family": "Souvenir",
+				"given": "Richard"
+			},
+			{
+				"family": "Endert",
+				"given": "Alex"
+			},
+			{
+				"family": "Chang",
+				"given": "Remco"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					1,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					12,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2427291/items/8Q4X3P99",
+		"type": "article-journal",
+		"abstract": "There is increasing evidence that user characteristics can have a significant impact on visualization effectiveness, suggesting that visualizations could be designed to better fit each user’s specific needs. Most studies to date, however, have looked at static visualizations. Studies considering interactive visualizations have only looked at a limited number of user characteristics, and consider either low-level tasks (e.g., value retrieval), or high-level tasks (in particular: discovery), but not both. This paper contributes to this line of work by looking at the impact of a large set of user characteristics on user performance with interactive visualizations, for both low and high-level tasks. We focus on interactive visualizations that support decision making, exemplified by a visualization known as Value Charts. We include in the study two versions of ValueCharts that differ in terms of layout, to ascertain whether layout mediates the impact of individual differences and could be considered as a form of personalization. Our key findings are that (i) performance with low and high-level tasks is affected by different user characteristics, and (ii) users with low visual working memory perform better with a horizontal layout. We discuss how these findings can inform the provision of personalized support to visualization processing.",
+		"container-title": "Computer Graphics Forum",
+		"DOI": "10.1111/cgf.12393",
+		"ISSN": "01677055",
+		"issue": "3",
+		"language": "en",
+		"page": "371-380",
+		"source": "Crossref",
+		"title": "Evaluating the Impact of User Characteristics and Different Layouts on an Interactive Visualization for Decision Making: Evaluating the impact of user characteristics and different layouts on an interactive visualization for decision making",
+		"title-short": "Evaluating the Impact of User Characteristics and Different Layouts on an Interactive Visualization for Decision Making",
+		"URL": "http://doi.wiley.com/10.1111/cgf.12393",
+		"volume": "33",
+		"author": [
+			{
+				"family": "Conati",
+				"given": "C."
+			},
+			{
+				"family": "Carenini",
+				"given": "G."
+			},
+			{
+				"family": "Hoque",
+				"given": "E."
+			},
+			{
+				"family": "Steichen",
+				"given": "B."
+			},
+			{
+				"family": "Toker",
+				"given": "D."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					1,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2427291/items/7BG5XR7I",
+		"type": "paper-conference",
+		"abstract": "User performance and satisfaction when working with an interface is influenced by how quickly the user can acquire the skills necessary to work with the interface through practice. Learning curves are mathematical models that can represent a user’s skill acquisition ability through parameters that describe the user’s initial expertise as well as her learning rate. This information could be used by an interface to provide adaptive support to users who may otherwise be slow in learning the necessary skills. In this paper, we investigate the feasibility of predicting in real time a user’s learning curve when working with ValueChart, an interactive visualization for decision making. Our models leverage various data sources (a user’s gaze behavior, pupil dilation, cognitive abilities), and we show that they outperform a baseline that leverages only knowledge on user task performance so far. We also show that the best performing model achieves good accuracies in predicting users’ learning curves even after observing users’ performance only on a few tasks. These results are promising toward the design of user-adaptive visualizations that can dynamically support a user in acquiring the necessary skills to complete visual tasks.",
+		"DOI": "10.1145/2678025.2701376",
+		"ISBN": "978-1-4503-3306-1",
+		"language": "en",
+		"page": "357-368",
+		"publisher": "ACM Press",
+		"source": "Crossref",
+		"title": "Prediction of Users' Learning Curves for Adaptation while Using an Information Visualization",
+		"URL": "http://dl.acm.org/citation.cfm?doid=2678025.2701376",
+		"author": [
+			{
+				"family": "Lallé",
+				"given": "Sébastien"
+			},
+			{
+				"family": "Toker",
+				"given": "Dereck"
+			},
+			{
+				"family": "Conati",
+				"given": "Cristina"
+			},
+			{
+				"family": "Carenini",
+				"given": "Giuseppe"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					1,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2427291/items/U8HIMQCZ",
+		"type": "paper-conference",
+		"abstract": "Individual differences matter. While this has been the theme for many recent works in the Visualization and HCI communities, the mystery of how to develop personalized visualizations remains. This is largely because very little is known about how users actually use visualizations to solve problems and even less is known about how individual differences affect these problem-solving strategies. In this paper, we provide evidence that strategies are indeed inﬂuenced by individual differences. We demonstrate how the personality trait locus of control impacts strategies on hierarchical visualizations, and we introduce design recommendations for personalized visualizations.",
+		"DOI": "10.1145/2702123.2702590",
+		"ISBN": "978-1-4503-3145-6",
+		"language": "en",
+		"page": "3251-3254",
+		"publisher": "ACM Press",
+		"source": "Crossref",
+		"title": "Personality as a Predictor of User Strategy: How Locus of Control Affects Search Strategies on Tree Visualizations",
+		"title-short": "Personality as a Predictor of User Strategy",
+		"URL": "http://dl.acm.org/citation.cfm?doid=2702123.2702590",
+		"author": [
+			{
+				"family": "Ottley",
+				"given": "Alvitta"
+			},
+			{
+				"family": "Yang",
+				"given": "Huahai"
+			},
+			{
+				"family": "Chang",
+				"given": "Remco"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					1,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2427291/items/YDPVZVFU",
+		"type": "article-journal",
+		"abstract": "Decades of research have repeatedly shown that people perform poorly at estimating and understanding conditional probabilities that are inherent in Bayesian reasoning problems. Yet in the medical domain, both physicians and patients make daily, life-critical judgments based on conditional probability. Although there have been a number of attempts to develop more effective ways to facilitate Bayesian reasoning, reports of these ﬁndings tend to be inconsistent and sometimes even contradictory. For instance, the reported accuracies for individuals being able to correctly estimate conditional probability range from 6% to 62%. In this work, we show that problem representation can signiﬁcantly affect accuracies. By controlling the amount of information presented to the user, we demonstrate how text and visualization designs can increase overall accuracies to as high as 77%. Additionally, we found that for users with high spatial ability, our designs can further improve their accuracies to as high as 100%. By and large, our ﬁndings provide explanations for the inconsistent reports on accuracy in Bayesian reasoning tasks and show a signiﬁcant improvement over existing methods. We believe that these ﬁndings can have immediate impact on risk communication in health-related ﬁelds.",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2015.2467758",
+		"ISSN": "1077-2626, 1941-0506, 2160-9306",
+		"issue": "1",
+		"language": "en",
+		"page": "529-538",
+		"source": "Crossref",
+		"title": "Improving Bayesian Reasoning: The Effects of Phrasing, Visualization, and Spatial Ability",
+		"title-short": "Improving Bayesian Reasoning",
+		"URL": "https://ieeexplore.ieee.org/document/7192720/",
+		"volume": "22",
+		"author": [
+			{
+				"family": "Ottley",
+				"given": "Alvitta"
+			},
+			{
+				"family": "Peck",
+				"given": "Evan M."
+			},
+			{
+				"family": "Harrison",
+				"given": "Lane T."
+			},
+			{
+				"family": "Afergan",
+				"given": "Daniel"
+			},
+			{
+				"family": "Ziemkiewicz",
+				"given": "Caroline"
+			},
+			{
+				"family": "Taylor",
+				"given": "Holly A."
+			},
+			{
+				"family": "Han",
+				"given": "Paul K. J."
+			},
+			{
+				"family": "Chang",
+				"given": "Remco"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					1,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					1,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2427291/items/4H8WDCKR",
+		"type": "article-journal",
+		"abstract": "People have difﬁculty understanding statistical information and are unaware of their wrong judgments, particularly in Bayesian reasoning. Psychology studies suggest that the way Bayesian problems are represented can impact comprehension, but few visual designs have been evaluated and only populations with a speciﬁc background have been involved. In this study, a textual and six visual representations for three classic problems were compared using a diverse subject pool through crowdsourcing. Visualizations included area-proportional Euler diagrams, glyph representations, and hybrid diagrams combining both. Our study failed to replicate previous ﬁndings in that subjects’ accuracy was remarkably lower and visualizations exhibited no measurable beneﬁt. A second experiment conﬁrmed that simply adding a visualization to a textual Bayesian problem is of little help, even when the text refers to the visualization, but suggests that visualizations are more effective when the text is given without numerical values. We discuss our ﬁndings and the need for more such experiments to be carried out on heterogeneous populations of non-experts.",
+		"container-title": "IEEE Transactions on Visualization and Computer Graphics",
+		"DOI": "10.1109/TVCG.2012.199",
+		"ISSN": "1077-2626",
+		"issue": "12",
+		"journalAbbreviation": "IEEE Trans. Visual. Comput. Graphics",
+		"language": "en",
+		"page": "2536-2545",
+		"source": "DOI.org (Crossref)",
+		"title": "Assessing the Effect of Visualizations on Bayesian Reasoning through Crowdsourcing",
+		"URL": "http://ieeexplore.ieee.org/document/6327259/",
+		"volume": "18",
+		"author": [
+			{
+				"family": "Micallef",
+				"given": "Luana"
+			},
+			{
+				"family": "Dragicevic",
+				"given": "Pierre"
+			},
+			{
+				"family": "Fekete",
+				"given": "Jean-Daniel"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					1,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					12
+				]
+			]
+		}
+	}
+]
